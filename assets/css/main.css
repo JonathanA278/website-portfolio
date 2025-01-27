@@ -1228,9 +1228,11 @@ h6 {
   background: var(--color-primary);
 }
 
+
 .hero .btn-get-started:hover {
   background: #d30000;
 }
+
 
 @media (max-width: 768px) {
   .hero h2 {
